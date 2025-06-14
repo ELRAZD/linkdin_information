@@ -1,0 +1,59 @@
+
+Security Analyst - Sample Resume
+
+Name: [Your Full Name]
+Email: [your.email@example.com]
+Phone: [+98-XXX-XXX-XXXX]
+LinkedIn: [linkedin.com/in/yourprofile]
+GitHub: [github.com/yourprofile]
+
+Professional Summary:
+----------------------------------------
+Detail-oriented and analytical Security Analyst with experience in vulnerability assessment, threat detection, and incident response. Skilled in identifying and mitigating cyber risks and ensuring system and network security compliance with industry standards.
+
+Skills:
+----------------------------------------
+- Security Tools: Wireshark, Nmap, Metasploit, Nessus, Burp Suite
+- Operating Systems: Linux (Kali, Ubuntu), Windows Server
+- Scripting: Python, Bash
+- Frameworks & Standards: OWASP, ISO/IEC 27001, NIST
+- Monitoring: SIEM tools, Firewall logs, IDS/IPS
+
+Professional Experience:
+----------------------------------------
+Security Analyst Intern
+CyberDefense Group, Tehran, Iran | Feb 2023 – Jul 2023
+- Performed vulnerability scanning and reported findings to IT team.
+- Assisted in investigating and responding to phishing and malware incidents.
+- Documented security protocols and incident reports.
+
+IT Security Assistant
+ITSec Solutions, Tehran, Iran | Jul 2022 – Jan 2023
+- Monitored firewall and system logs to detect unusual activities.
+- Conducted basic penetration testing on internal applications.
+- Participated in internal audits and compliance reporting.
+
+Education:
+----------------------------------------
+B.Sc. in Information Technology – Cybersecurity
+Amirkabir University of Technology, Iran | 2018 – 2022
+
+Projects:
+----------------------------------------
+- Vulnerability Scanner: Python tool to automate basic scans using Nmap and parsing results.
+- Secure Login System: Flask-based login app with two-factor authentication.
+- Security Policy Framework: Drafted and implemented security guidelines for a mock organization.
+
+Certifications:
+----------------------------------------
+- CompTIA Security+ – CompTIA
+- Cybersecurity Essentials – Cisco
+
+Languages:
+----------------------------------------
+- Persian (Native)
+- English (Intermediate – B1/B2)
+
+References:
+----------------------------------------
+Available upon request.

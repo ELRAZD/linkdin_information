@@ -1,0 +1,66 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1 (123) 456-7890
+Location: San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+Portfolio: johndoe.dev
+
+--------------------------------------------------
+PROFILE
+--------------------------------------------------
+Front-End Developer with 3+ years of experience building responsive, high-performance web applications using modern technologies like React, TypeScript, and Tailwind CSS. Passionate about clean code, user experience, and continuous learning.
+
+--------------------------------------------------
+SKILLS
+--------------------------------------------------
+- Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- Frameworks/Libraries: React, Next.js, Redux, Vue.js (basic)
+- Styling: Tailwind CSS, Sass, Styled-components, Bootstrap
+- Tools: Git, Webpack, Vite, NPM, Yarn
+- Testing: Jest, React Testing Library
+- Other: REST APIs, Responsive Design, Accessibility (WCAG), Agile/Scrum
+
+--------------------------------------------------
+EXPERIENCE
+--------------------------------------------------
+Front-End Developer – TechNova Inc. | San Francisco, CA
+June 2022 – Present
+- Developed and maintained multiple React-based applications with 100K+ monthly users.
+- Led front-end refactor of legacy project, improving performance by 30%.
+- Collaborated closely with UI/UX designers to implement pixel-perfect interfaces.
+- Integrated RESTful APIs and ensured seamless data handling.
+
+Junior Front-End Developer – BrightWeb Studio | Remote
+Jan 2021 – May 2022
+- Built responsive websites using HTML, CSS, and JavaScript for small business clients.
+- Migrated jQuery-based code to vanilla JS and React.
+- Participated in weekly code reviews and Agile standups.
+
+--------------------------------------------------
+EDUCATION
+--------------------------------------------------
+B.S. in Computer Science – University of California, Berkeley
+Graduated: 2020
+
+--------------------------------------------------
+PROJECTS
+--------------------------------------------------
+JobHunt Tracker (React, TypeScript, Firebase)
+- A web app to track job applications and interviews.
+- Implemented authentication, CRUD operations, and responsive design.
+
+WeatherNow (Next.js, Tailwind CSS, OpenWeather API)
+- Built a dynamic weather forecast application with real-time data fetching.
+
+--------------------------------------------------
+CERTIFICATIONS
+--------------------------------------------------
+- Meta Front-End Developer Professional Certificate (Coursera)
+- JavaScript Algorithms and Data Structures (freeCodeCamp)
+
+--------------------------------------------------
+LANGUAGES
+--------------------------------------------------
+- English: Native
+- Spanish: Intermediate

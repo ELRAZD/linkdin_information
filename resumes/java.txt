@@ -1,0 +1,59 @@
+
+Java Developer - Sample Resume
+
+Name: [Your Full Name]
+Email: [your.email@example.com]
+Phone: [+98-XXX-XXX-XXXX]
+LinkedIn: [linkedin.com/in/yourprofile]
+GitHub: [github.com/yourprofile]
+
+Professional Summary:
+----------------------------------------
+Java Developer with strong knowledge of object-oriented programming and hands-on experience in building scalable enterprise applications. Proficient in Java frameworks and libraries, with a focus on code efficiency, maintainability, and security.
+
+Skills:
+----------------------------------------
+- Programming: Java SE, Java EE, SQL
+- Frameworks: Spring Boot, Hibernate, JSP, Servlets
+- Tools: Maven, Gradle, Git, Docker, Jenkins
+- Databases: MySQL, PostgreSQL
+- APIs: RESTful Web Services, JSON, SOAP
+
+Professional Experience:
+----------------------------------------
+Java Developer
+EnterpriseSoft Co., Tehran, Iran | Apr 2023 – Present
+- Developed backend services for HR and accounting systems using Spring Boot.
+- Designed RESTful APIs for integration with frontend and third-party platforms.
+- Refactored legacy Java code to improve performance and readability.
+
+Java Intern Developer
+CodeCraft Ltd., Tehran, Iran | Jun 2022 – Feb 2023
+- Participated in the development of a CRM system using JSP and Servlets.
+- Wrote unit tests using JUnit and maintained project documentation.
+- Assisted in deployment automation using Jenkins.
+
+Education:
+----------------------------------------
+B.Sc. in Software Engineering
+University of Tabriz, Iran | 2018 – 2022
+
+Projects:
+----------------------------------------
+- Online Banking System: Java-based platform for transfers, accounts, and transaction history.
+- Inventory Management: Swing desktop app with CRUD functionality and reporting.
+- Spring Blog API: RESTful backend for a blogging platform with user roles and JWT auth.
+
+Certifications:
+----------------------------------------
+- Java Programming Masterclass – Udemy
+- Spring Framework for Beginners – Coursera
+
+Languages:
+----------------------------------------
+- Persian (Native)
+- English (Intermediate – B2)
+
+References:
+----------------------------------------
+Available upon request.

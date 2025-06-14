@@ -1,0 +1,59 @@
+
+Machine Learning Engineer - Sample Resume
+
+Name: [Your Full Name]
+Email: [your.email@example.com]
+Phone: [+98-XXX-XXX-XXXX]
+LinkedIn: [linkedin.com/in/yourprofile]
+GitHub: [github.com/yourprofile]
+
+Professional Summary:
+----------------------------------------
+Machine Learning Engineer with strong foundations in mathematics, algorithms, and deep learning. Experienced in building, deploying, and optimizing ML models for computer vision and NLP tasks. Passionate about applying machine learning to solve real-world problems and working with interdisciplinary teams.
+
+Skills:
+----------------------------------------
+- Programming: Python, C++, Bash
+- ML/DL Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras
+- Tools: Git, Docker, Linux, MLflow, Weights & Biases
+- Data: NumPy, Pandas, OpenCV, NLTK, spaCy
+- Deployment: FastAPI, Flask, ONNX, REST APIs
+
+Professional Experience:
+----------------------------------------
+ML Engineer Intern
+AI Vision Lab, Tehran, Iran | Jan 2023 – Jul 2023
+- Developed convolutional neural networks (CNNs) for object detection tasks.
+- Implemented image preprocessing pipelines using OpenCV and NumPy.
+- Tuned model hyperparameters to improve accuracy by 15% on test data.
+
+ML Research Assistant
+TechAI Institute | Sep 2022 – Dec 2022
+- Worked on a research project involving natural language processing for Persian text.
+- Fine-tuned transformer-based models (BERT) using HuggingFace Transformers.
+- Co-authored a technical report submitted to a national AI competition.
+
+Education:
+----------------------------------------
+B.Sc. in Computer Engineering
+Sharif University of Technology, Iran | 2018 – 2022
+
+Projects:
+----------------------------------------
+- Image Classification Pipeline: Developed with PyTorch using transfer learning.
+- Text Summarizer: Implemented extractive summarization using NLP techniques.
+- Model Deployment: Served ML models with FastAPI and Docker.
+
+Certifications:
+----------------------------------------
+- Deep Learning Specialization – Coursera
+- TensorFlow Developer Certificate – Google
+
+Languages:
+----------------------------------------
+- Persian (Native)
+- English (Upper Intermediate – B2)
+
+References:
+----------------------------------------
+Available upon request.

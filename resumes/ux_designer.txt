@@ -1,0 +1,66 @@
+Lena Martinez  
+Email: lena.martinez@example.com  
+Phone: +1 (222) 678-9012  
+Location: New York, NY  
+LinkedIn: linkedin.com/in/lenamartinez  
+Portfolio: lenamartinez.design  
+Behance: behance.net/lenamartinez  
+
+--------------------------------------------------
+PROFILE
+--------------------------------------------------
+Creative and empathetic UX Designer with 5+ years of experience crafting user-centered digital experiences. Skilled in user research, wireframing, prototyping, and usability testing. Passionate about solving problems through intuitive design and improving user satisfaction.
+
+--------------------------------------------------
+SKILLS
+--------------------------------------------------
+- UX Design: User Research, Wireframing, Prototyping, Usability Testing  
+- Tools: Figma, Adobe XD, Sketch, InVision, Miro, Notion  
+- Research Methods: Surveys, Interviews, A/B Testing, Heuristic Evaluation  
+- Design Systems: Component Libraries, Atomic Design  
+- Collaboration: Agile Teams, Developer Handoff, Stakeholder Communication  
+
+--------------------------------------------------
+EXPERIENCE
+--------------------------------------------------
+UX Designer – BrightPixel Agency | New York, NY  
+May 2021 – Present  
+- Designed end-to-end UX for web and mobile products across various industries.  
+- Conducted user interviews and usability tests to improve key user flows.  
+- Created wireframes and interactive prototypes using Figma and InVision.  
+- Collaborated with developers to ensure pixel-perfect implementation.  
+
+Junior UX/UI Designer – ClickCraft Studio | Remote  
+Feb 2019 – Apr 2021  
+- Assisted in designing responsive websites and mobile apps.  
+- Built and maintained design systems for SaaS clients.  
+- Participated in UX audits and contributed to accessibility improvements.  
+
+--------------------------------------------------
+EDUCATION
+--------------------------------------------------
+B.A. in Human-Computer Interaction – Carnegie Mellon University  
+Graduated: 2018  
+
+--------------------------------------------------
+CERTIFICATIONS
+--------------------------------------------------
+- Google UX Design Certificate (Coursera)  
+- Human-Centered Design – IDEO U  
+- Nielsen Norman Group: UX Research Certificate  
+
+--------------------------------------------------
+PROJECTS
+--------------------------------------------------
+Wellness App Redesign  
+- Improved user retention by 30% by redesigning onboarding and dashboard.  
+- Based on feedback from 20+ user interviews and heatmap analytics.
+
+UX Audit for FinTech Web App  
+- Identified usability issues and presented actionable recommendations that increased form completion rate by 18%.
+
+--------------------------------------------------
+LANGUAGES
+--------------------------------------------------
+- English: Native  
+- Spanish: Intermediate  

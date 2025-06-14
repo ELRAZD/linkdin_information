@@ -1,0 +1,67 @@
+AI Researcher - Sample Resume
+
+Name: [Your Full Name]
+Email: [your.email@example.com]
+Phone: [+1-234-567-8901]
+LinkedIn: [linkedin.com/in/yourprofile]
+GitHub: [github.com/yourprofile]
+
+Professional Summary:
+----------------------------------------
+Innovative and detail-oriented AI Researcher with a strong background in machine learning, deep learning, and data science. Experienced in designing and implementing cutting-edge algorithms and models for various applications including natural language processing, computer vision, and reinforcement learning. Passionate about advancing the state-of-the-art in AI through rigorous experimentation and academic research.
+
+Skills:
+----------------------------------------
+- Programming Languages: Python, C++, Java
+- ML/DL Frameworks: PyTorch, TensorFlow, Scikit-learn
+- NLP Tools: HuggingFace Transformers, spaCy, NLTK
+- Data: NumPy, Pandas, SQL, MongoDB
+- Visualization: Matplotlib, Seaborn, Plotly
+- Tools: Git, Docker, Linux, Jupyter
+
+Professional Experience:
+----------------------------------------
+AI Research Intern
+XYZ Research Lab, San Francisco, CA | Jun 2023 – Dec 2023
+- Developed transformer-based models for summarization and text generation tasks.
+- Fine-tuned LLMs using domain-specific datasets and evaluated their performance.
+- Published 1 peer-reviewed paper and co-authored 2 technical reports.
+
+Machine Learning Engineer
+TechNova AI, Boston, MA | Jan 2022 – May 2023
+- Built scalable ML pipelines for real-time fraud detection system.
+- Deployed models using Docker and integrated with REST APIs for production use.
+- Improved model accuracy by 12% through hyperparameter optimization and feature engineering.
+
+Education:
+----------------------------------------
+M.Sc. in Artificial Intelligence
+University of Technology, USA | 2020 – 2022
+
+B.Sc. in Computer Science
+State University, USA | 2016 – 2020
+
+Projects:
+----------------------------------------
+- Reinforcement Learning for Game AI: Trained RL agents for playing Atari and Unity-based games.
+- Medical Image Analysis: Used CNNs to detect anomalies in X-ray images with 90%+ accuracy.
+- Multilingual Chatbot: Developed a chatbot supporting 3 languages using seq2seq models.
+
+Publications:
+----------------------------------------
+- "[Title of Paper]" – Published in NeurIPS 2023
+- "[Title of Workshop Paper]" – Presented at ICML Workshop on AI for Social Good, 2022
+
+Certifications:
+----------------------------------------
+- Deep Learning Specialization – Coursera
+- ML Research Training – Stanford Online
+
+Languages:
+----------------------------------------
+- English (Fluent)
+- [Optional: Other Languages]
+
+References:
+----------------------------------------
+Available upon request.

@@ -1,0 +1,60 @@
+
+Python Developer - Sample Resume
+
+Name: [Your Full Name]
+Email: [your.email@example.com]
+Phone: [+98-XXX-XXX-XXXX]
+LinkedIn: [linkedin.com/in/yourprofile]
+GitHub: [github.com/yourprofile]
+
+Professional Summary:
+----------------------------------------
+Dedicated and efficient Python Developer with experience in web development, automation, and data manipulation. Proficient in developing REST APIs, backend services, and task automation scripts. Enthusiastic about learning new tools and improving code performance.
+
+Skills:
+----------------------------------------
+- Programming Languages: Python, JavaScript, Bash
+- Web Frameworks: Django, Flask, FastAPI
+- Databases: PostgreSQL, MySQL, SQLite
+- Tools: Git, Docker, Linux, Postman
+- Libraries: Requests, BeautifulSoup, Pandas, SQLAlchemy
+- Other: RESTful APIs, Object-Oriented Programming, Unit Testing
+
+Professional Experience:
+----------------------------------------
+Python Developer Intern
+TechBridge Co., Tehran, Iran | Jul 2023 – Present
+- Developed APIs using Django REST Framework for internal tools and customer-facing features.
+- Automated data extraction tasks with BeautifulSoup and scheduled them using cron jobs.
+- Wrote unit tests and performed code reviews in an agile team environment.
+
+Freelance Developer
+Remote | Jan 2022 – Jun 2023
+- Built Flask-based web applications for small businesses.
+- Created Python scripts to process CSV, Excel, and JSON data files for reporting.
+- Integrated third-party APIs (e.g., Telegram Bot, Payment Gateways).
+
+Education:
+----------------------------------------
+B.Sc. in Computer Science
+University of Tehran, Iran | 2018 – 2022
+
+Projects:
+----------------------------------------
+- URL Shortener: Built with Flask and SQLite with custom analytics dashboard.
+- Blog CMS: Django-powered content management system with user authentication and WYSIWYG editor.
+- CLI File Organizer: Python script that organizes files in directories by type and date.
+
+Certifications:
+----------------------------------------
+- Python for Everybody – Coursera
+- Django for Web Development – Udemy
+
+Languages:
+----------------------------------------
+- Persian (Native)
+- English (Upper Intermediate – B2)
+
+References:
+----------------------------------------
+Available upon request.

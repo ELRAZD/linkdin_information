@@ -1,0 +1,53 @@
+
+Full Name: [Your Name]
+Email: [your.email@example.com]
+Phone: [+1-123-456-7890]
+LinkedIn: [linkedin.com/in/yourprofile]
+Location: [City, Country]
+
+Objective:
+Highly motivated and detail-oriented Electrical Engineer with 3+ years of experience in circuit design, power systems, and embedded systems. Seeking to leverage expertise in electrical design and project management to contribute to innovative engineering projects.
+
+Education:
+B.Sc. in Electrical Engineering
+[Your University], [City, Country]
+Graduation Year: [Year]
+
+Skills:
+- Circuit Design (Analog and Digital)
+- PCB Design (Altium, Eagle)
+- Embedded Systems (Arduino, Raspberry Pi, STM32)
+- Power Systems Analysis
+- AutoCAD Electrical, MATLAB, Simulink
+- Programming: Python, C/C++, VHDL
+- Troubleshooting & Maintenance
+- Project Management
+
+Work Experience:
+
+Electrical Engineer | [Company Name] – [City, Country]
+[Start Date] – [End Date]
+- Designed and implemented custom PCBs for industrial automation systems.
+- Managed electrical aspects of projects from concept to implementation.
+- Collaborated with mechanical and software engineers for integrated solutions.
+- Improved system efficiency by 20% through circuit optimization.
+
+Intern Electrical Engineer | [Company Name] – [City, Country]
+[Start Date] – [End Date]
+- Supported the design of power distribution systems for commercial buildings.
+- Assisted in testing and validation of electrical components.
+
+Projects:
+- Smart Home Energy Monitoring System using IoT and Arduino.
+- Solar Power Inverter Design for Residential Use.
+
+Certifications:
+- Certified Electrical Engineer (CEng)
+- AutoCAD Electrical Professional Certification
+
+Languages:
+- English: Fluent
+- [Other Language]: [Level]
+
+References:
+Available upon request.

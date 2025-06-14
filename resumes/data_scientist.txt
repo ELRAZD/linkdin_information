@@ -1,0 +1,60 @@
+
+Data Scientist - Sample Resume
+
+Name: [Your Full Name]
+Email: [your.email@example.com]
+Phone: [+98-XXX-XXX-XXXX]
+LinkedIn: [linkedin.com/in/yourprofile]
+GitHub: [github.com/yourprofile]
+
+Professional Summary:
+----------------------------------------
+Analytical and detail-oriented Data Scientist with experience in data wrangling, statistical modeling, and machine learning. Skilled in deriving insights from data and building predictive models to support business decision-making. Passionate about data storytelling and continuous learning.
+
+Skills:
+----------------------------------------
+- Programming Languages: Python, SQL, R
+- Libraries/Tools: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+- Data Engineering: ETL, Data Cleaning, Feature Engineering
+- Machine Learning: Regression, Classification, Clustering, Model Evaluation
+- Databases: PostgreSQL, MySQL
+- Tools: Jupyter, Git, Tableau, Power BI
+
+Professional Experience:
+----------------------------------------
+Data Science Intern
+Insight Analytics, Tehran, Iran | Mar 2023 – Sep 2023
+- Conducted exploratory data analysis (EDA) on large datasets using Pandas and Matplotlib.
+- Built classification models to predict customer churn with 85% accuracy.
+- Created interactive dashboards in Tableau for data visualization.
+
+Junior Data Analyst
+DataViz Co., Tehran, Iran | Jun 2022 – Feb 2023
+- Cleaned and processed sales and marketing data for monthly reporting.
+- Designed SQL queries for data extraction and reporting automation.
+- Worked with business team to identify KPIs and improve reporting efficiency.
+
+Education:
+----------------------------------------
+B.Sc. in Statistics and Data Science
+Allameh Tabataba'i University, Iran | 2018 – 2022
+
+Projects:
+----------------------------------------
+- Customer Segmentation: Applied k-means clustering to segment customers based on behavior.
+- House Price Prediction: Built regression model using Scikit-learn with cross-validation.
+- COVID-19 Data Dashboard: Created interactive dashboard with real-time updates using Plotly Dash.
+
+Certifications:
+----------------------------------------
+- IBM Data Science Professional Certificate – Coursera
+- Applied Data Science with Python – University of Michigan
+
+Languages:
+----------------------------------------
+- Persian (Native)
+- English (Intermediate – B1/B2)
+
+References:
+----------------------------------------
+Available upon request.

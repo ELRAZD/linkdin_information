@@ -1,0 +1,68 @@
+Daniel Nguyen  
+Email: daniel.nguyen@example.com  
+Phone: +1 (333) 789-6541  
+Location: San Francisco, CA  
+LinkedIn: linkedin.com/in/danielnguyen  
+GitHub: github.com/danielnguyenapps  
+Portfolio: danielapps.dev  
+
+--------------------------------------------------
+PROFILE
+--------------------------------------------------
+Mobile App Developer with 5+ years of experience building high-performance iOS and Android applications. Skilled in Flutter, React Native, Swift, and Kotlin. Strong focus on clean architecture, responsive UI, API integration, and app performance. Passionate about user-centric design and staying current with mobile development trends.
+
+--------------------------------------------------
+SKILLS
+--------------------------------------------------
+- Programming Languages: Dart, JavaScript, Swift, Kotlin, Java  
+- Frameworks: Flutter, React Native, Android SDK, SwiftUI  
+- Backend: Firebase, REST APIs, GraphQL  
+- Tools: Git, Xcode, Android Studio, VS Code, Postman, Figma  
+- DevOps & Testing: CI/CD (Codemagic, GitHub Actions), Unit Testing, Integration Testing  
+- App Store: Apple App Store, Google Play Console  
+
+--------------------------------------------------
+EXPERIENCE
+--------------------------------------------------
+Mobile App Developer – AppFlow Studio | San Francisco, CA  
+June 2021 – Present  
+- Built and maintained cross-platform apps in Flutter with 100K+ downloads.  
+- Implemented push notifications, in-app purchases, and real-time updates using Firebase.  
+- Collaborated with designers to deliver pixel-perfect UI from Figma.  
+- Led migration of legacy Android app from Java to Kotlin.  
+
+Junior Mobile Developer – NovaSoft | Remote  
+Feb 2019 – May 2021  
+- Developed e-commerce and productivity apps using React Native.  
+- Integrated RESTful APIs, analytics, and crash reporting tools.  
+- Worked in Agile team and participated in daily standups and sprint planning.  
+
+--------------------------------------------------
+EDUCATION
+--------------------------------------------------
+B.S. in Computer Science – University of California, Berkeley  
+Graduated: 2018  
+
+--------------------------------------------------
+CERTIFICATIONS
+--------------------------------------------------
+- Google Associate Android Developer  
+- Flutter & Dart – The Complete Guide (Udemy)  
+- iOS App Development with Swift (Coursera – Stanford)  
+
+--------------------------------------------------
+PROJECTS
+--------------------------------------------------
+FitBuddy (Flutter, Firebase)  
+- A fitness tracking app with real-time activity tracking and progress analytics.  
+- 50K+ downloads with 4.8 rating on Play Store.
+
+TravelMate (React Native, GraphQL)  
+- Travel planning app with saved itineraries, map view, and flight API integration.  
+- Featured in “Top Travel Apps” in regional app stores.
+
+--------------------------------------------------
+LANGUAGES
+--------------------------------------------------
+- English: Native  
+- Vietnamese: Conversational  

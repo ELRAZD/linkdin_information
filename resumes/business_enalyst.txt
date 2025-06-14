@@ -1,0 +1,64 @@
+Emily Johnson  
+Email: emily.johnson@example.com  
+Phone: +1 (555) 123-4567  
+Location: Chicago, IL  
+LinkedIn: linkedin.com/in/emilyjohnson  
+Portfolio: emilyjohnson.me  
+
+--------------------------------------------------
+PROFILE
+--------------------------------------------------
+Analytical and detail-oriented Business Analyst with 5+ years of experience bridging the gap between business needs and technical solutions. Skilled in data analysis, requirement gathering, process improvement, and stakeholder communication. Adept at using SQL, Excel, and BI tools to generate insights and support strategic decision-making.
+
+--------------------------------------------------
+SKILLS
+--------------------------------------------------
+- Business Analysis: Requirement Gathering, User Stories, Process Modeling (BPMN)  
+- Data Analysis: SQL, Excel (PivotTables, VLOOKUP), Google Sheets  
+- BI & Visualization Tools: Power BI, Tableau, Looker  
+- Tools & Methodologies: JIRA, Confluence, Agile/Scrum, Waterfall, SWOT, Root Cause Analysis  
+- Communication: Stakeholder Interviews, Presentation, Report Writing  
+
+--------------------------------------------------
+EXPERIENCE
+--------------------------------------------------
+Business Analyst – FinWise Solutions | Chicago, IL  
+March 2021 – Present  
+- Conducted business needs assessments for finance software products.  
+- Created detailed BRDs and functional specifications used by dev teams.  
+- Designed Power BI dashboards used by leadership to monitor KPIs.  
+- Facilitated Agile ceremonies and worked closely with Product Owners.  
+
+Junior Business Analyst – MarketSphere Analytics | Remote  
+Jan 2019 – Feb 2021  
+- Analyzed customer behavior data to identify trends and opportunities.  
+- Supported the creation of sales performance dashboards in Tableau.  
+- Collaborated with cross-functional teams to improve reporting workflows.  
+
+--------------------------------------------------
+EDUCATION
+--------------------------------------------------
+B.A. in Business Administration – University of Illinois at Urbana-Champaign  
+Graduated: 2018  
+
+--------------------------------------------------
+CERTIFICATIONS
+--------------------------------------------------
+- Certified Business Analysis Professional (CBAP) – IIBA  
+- Google Data Analytics Professional Certificate (Coursera)  
+
+--------------------------------------------------
+PROJECTS
+--------------------------------------------------
+Customer Churn Analysis  
+- Used SQL and Excel to analyze customer churn and identify key risk factors.  
+- Presented findings to leadership, resulting in a 15% churn reduction initiative.  
+
+Operations Efficiency Dashboard  
+- Built an interactive dashboard in Power BI to monitor warehouse efficiency KPIs.  
+
+--------------------------------------------------
+LANGUAGES
+--------------------------------------------------
+- English: Native  
+- Spanish: Conversational  

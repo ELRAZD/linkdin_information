@@ -1,0 +1,59 @@
+
+Full Stack Developer - Sample Resume
+
+Name: [Your Full Name]
+Email: [your.email@example.com]
+Phone: [+98-XXX-XXX-XXXX]
+LinkedIn: [linkedin.com/in/yourprofile]
+GitHub: [github.com/yourprofile]
+
+Professional Summary:
+----------------------------------------
+Creative and results-driven Full Stack Developer with hands-on experience in building scalable web applications using modern frontend and backend technologies. Skilled in developing RESTful APIs, integrating databases, and deploying full-stack solutions. Passionate about delivering high-quality code and collaborating in agile teams to solve real-world problems.
+
+Skills:
+----------------------------------------
+- Frontend: HTML, CSS, JavaScript, React.js, Vue.js
+- Backend: Node.js, Express.js, Python (Django, FastAPI)
+- Databases: PostgreSQL, MySQL, MongoDB
+- Tools: Git, Docker, Webpack, Postman, Linux
+- Others: REST APIs, JWT Auth, CI/CD, Agile, Figma
+
+Professional Experience:
+----------------------------------------
+Full Stack Developer
+SmartTech Solutions, Tehran, Iran | Feb 2023 – Present
+- Developed and maintained a task management system with React and Django backend.
+- Designed secure and efficient RESTful APIs and implemented JWT-based authentication.
+- Integrated PostgreSQL and deployed application on a VPS using Docker and Nginx.
+
+Web Developer Intern
+WebStars Studio, Tehran, Iran | Jul 2022 – Dec 2022
+- Assisted in frontend development using Bootstrap and jQuery for e-commerce platforms.
+- Created responsive UI components and collaborated with backend team for API integration.
+- Participated in weekly sprint planning and code reviews as part of agile workflow.
+
+Education:
+----------------------------------------
+B.Sc. in Software Engineering
+Khajeh Nasir Toosi University of Technology, Iran | 2019 – 2023
+
+Projects:
+----------------------------------------
+- Online Store Platform: Built a full-stack online store with shopping cart and payment features.
+- Real-time Chat App: Implemented using WebSocket and Node.js with JWT authentication.
+- Portfolio Website: Personal site built with React to showcase projects and blogs.
+
+Certifications:
+----------------------------------------
+- Full Stack Web Development – Codecademy
+- Django & React Masterclass – Udemy
+
+Languages:
+----------------------------------------
+- Persian (Native)
+- English (Intermediate – B2)
+
+References:
+----------------------------------------
+Available upon request.

@@ -1,0 +1,59 @@
+
+Backend Developer - Sample Resume
+
+Name: [Your Full Name]
+Email: [your.email@example.com]
+Phone: [+98-XXX-XXX-XXXX]
+LinkedIn: [linkedin.com/in/yourprofile]
+GitHub: [github.com/yourprofile]
+
+Professional Summary:
+----------------------------------------
+Backend Developer with experience designing and implementing server-side logic, RESTful APIs, and microservices. Proficient in backend frameworks and database integration with a strong understanding of scalability, security, and performance optimization.
+
+Skills:
+----------------------------------------
+- Languages: Python, JavaScript (Node.js), Java
+- Frameworks: Django, FastAPI, Express.js, Spring Boot
+- Databases: PostgreSQL, MongoDB, MySQL, Redis
+- Tools: Docker, Git, Nginx, Celery, RabbitMQ, Postman
+- APIs: REST, GraphQL, JWT, OAuth2
+
+Professional Experience:
+----------------------------------------
+Backend Developer
+WebCore Solutions, Tehran, Iran | Apr 2023 – Present
+- Developed RESTful APIs with Django and FastAPI to support mobile applications.
+- Designed scalable PostgreSQL schemas and optimized queries for performance.
+- Implemented background task queues using Celery and Redis.
+
+Software Developer Intern
+SoftNet Co., Tehran, Iran | Jul 2022 – Feb 2023
+- Created backend services in Node.js and integrated with MongoDB.
+- Participated in system design discussions and agile sprints.
+- Improved API security by adding OAuth2-based authentication.
+
+Education:
+----------------------------------------
+B.Sc. in Information Technology
+Ferdowsi University of Mashhad, Iran | 2018 – 2022
+
+Projects:
+----------------------------------------
+- Booking System API: REST API backend for hotel bookings and availability checks.
+- Notification Service: Microservice that queues and sends emails/SMS via Celery.
+- Admin Dashboard Backend: Admin panel services with role-based access control.
+
+Certifications:
+----------------------------------------
+- Backend Development with Django – Udemy
+- RESTful APIs with Node.js – Coursera
+
+Languages:
+----------------------------------------
+- Persian (Native)
+- English (Intermediate – B1/B2)
+
+References:
+----------------------------------------
+Available upon request.

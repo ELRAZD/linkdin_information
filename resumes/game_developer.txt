@@ -1,0 +1,67 @@
+Alex Carter  
+Email: alex.carter@example.com  
+Phone: +1 (777) 234-5678  
+Location: Seattle, WA  
+LinkedIn: linkedin.com/in/alexcarter  
+GitHub: github.com/alexcarterdev  
+Portfolio: alexcarter.games  
+
+--------------------------------------------------
+PROFILE
+--------------------------------------------------
+Creative and results-driven Game Developer with 4+ years of experience designing and developing interactive 2D and 3D games. Proficient in Unity and Unreal Engine, with strong skills in C#, C++, game mechanics, physics systems, and performance optimization. Passionate about delivering immersive player experiences and staying up-to-date with gaming trends.
+
+--------------------------------------------------
+SKILLS
+--------------------------------------------------
+- Programming Languages: C#, C++, Python  
+- Game Engines: Unity, Unreal Engine  
+- Game Design: Game Mechanics, Level Design, AI Programming, Physics  
+- Tools: Git, Blender, Adobe Photoshop, FMOD, Jira, Trello  
+- Platforms: PC, Mobile (iOS/Android), WebGL  
+- Other: Multiplayer Systems, Optimization, Shader Programming (HLSL/GLSL), Agile Development  
+
+--------------------------------------------------
+EXPERIENCE
+--------------------------------------------------
+Game Developer – PixelStorm Studios | Seattle, WA  
+May 2021 – Present  
+- Developed and published 3 indie games on Steam and Google Play using Unity.  
+- Created custom gameplay systems (AI, Inventory, Combat) using C#.  
+- Worked in a cross-functional Agile team with designers, artists, and QA.  
+- Integrated ads and in-app purchases for mobile games.  
+
+Junior Game Programmer – DreamForge Games | Remote  
+Feb 2019 – Apr 2021  
+- Built core gameplay features in Unreal Engine using C++.  
+- Optimized performance for mobile devices, reducing frame drops by 40%.  
+- Wrote editor tools to help level designers build content faster.  
+
+--------------------------------------------------
+EDUCATION
+--------------------------------------------------
+B.S. in Game Development – DigiPen Institute of Technology  
+Graduated: 2018  
+
+--------------------------------------------------
+PROJECTS
+--------------------------------------------------
+Rogue Galaxy (Unity, PC)  
+- Top-down space shooter game featuring procedural levels and enemy AI.  
+- Developed in a team of 4; published on Steam with 10K+ downloads.  
+
+Mystic Quest (Unreal Engine, Mobile)  
+- 3D puzzle-adventure game developed with Blueprint and C++.  
+- Designed and implemented visual effects and UI transitions.  
+
+--------------------------------------------------
+CERTIFICATIONS
+--------------------------------------------------
+- Unity Certified Associate: Game Developer  
+- Unreal Engine Blueprint Developer Bootcamp  
+
+--------------------------------------------------
+LANGUAGES
+--------------------------------------------------
+- English: Native  
+- Japanese: Basic (game localization projects)  

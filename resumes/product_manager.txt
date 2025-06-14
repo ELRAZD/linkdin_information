@@ -1,0 +1,63 @@
+Sophia Lee  
+Email: sophia.lee@example.com  
+Phone: +1 (444) 321-8765  
+Location: Austin, TX  
+LinkedIn: linkedin.com/in/sophialee  
+Portfolio: sophialeeproduct.com  
+
+--------------------------------------------------
+PROFILE
+--------------------------------------------------
+Strategic and user-focused Product Manager with 6+ years of experience leading cross-functional teams to deliver impactful digital products. Proven success in defining product vision, managing full product lifecycle, and aligning business goals with customer needs. Experienced in Agile/Scrum environments with strong skills in user research, analytics, and stakeholder communication.
+
+--------------------------------------------------
+SKILLS
+--------------------------------------------------
+- Product Management: Roadmapping, MVP Definition, Feature Prioritization  
+- Research & Analytics: User Interviews, A/B Testing, SQL, Google Analytics  
+- Tools: JIRA, Confluence, Figma, Miro, Trello, Asana, Notion  
+- Methodologies: Agile, Scrum, Kanban, Lean Startup  
+- Communication: Stakeholder Alignment, Documentation, Presentation  
+
+--------------------------------------------------
+EXPERIENCE
+--------------------------------------------------
+Product Manager – BrightTech Solutions | Austin, TX  
+March 2021 – Present  
+- Led a cross-functional team of 8 (devs, designers, QA) to launch a SaaS platform.  
+- Defined and executed product roadmap, leading to 40% growth in active users.  
+- Used customer feedback and analytics to improve retention by 25%.  
+- Collaborated with marketing and sales to align GTM strategy.  
+
+Associate Product Manager – AppTide | Remote  
+Jan 2018 – Feb 2021  
+- Managed backlog and sprint planning for a mobile app used by 200K+ users.  
+- Conducted usability testing and competitive analysis to refine UX.  
+- Supported product launch initiatives, leading to a successful app store rating of 4.7.  
+
+--------------------------------------------------
+EDUCATION
+--------------------------------------------------
+B.A. in Business & Technology – New York University (NYU)  
+Graduated: 2017  
+
+--------------------------------------------------
+CERTIFICATIONS
+--------------------------------------------------
+- Certified Scrum Product Owner (CSPO) – Scrum Alliance  
+- Product Management Certificate – General Assembly  
+
+--------------------------------------------------
+PROJECTS
+--------------------------------------------------
+User Feedback Portal (Internal Tool)  
+- Designed and launched an internal feedback system used by 4+ product teams to gather and act on user insights faster.  
+
+Growth Experiments Tracker  
+- Created a tracking system for A/B tests and experiments across teams, improving visibility and learnings documentation.  
+
+--------------------------------------------------
+LANGUAGES
+--------------------------------------------------
+- English: Native  
+- Mandarin Chinese: Intermediate  

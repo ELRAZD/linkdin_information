@@ -1,0 +1,301 @@
+date,job_title,search_count
+2025-05-01,Data Scientist,204
+2025-05-01,Software Engineer,131
+2025-05-01,Product Manager,165
+2025-05-01,UX Designer,83
+2025-05-01,System Administrator,64
+2025-05-01,Machine Learning Engineer,136
+2025-05-01,DevOps Engineer,135
+2025-05-01,Frontend Developer,163
+2025-05-01,Backend Developer,194
+2025-05-01,Full Stack Developer,172
+2025-05-01,Cloud Architect,179
+2025-05-01,Database Administrator,101
+2025-05-01,Security Analyst,147
+2025-05-01,Business Analyst,221
+2025-05-01,Mobile App Developer,194
+2025-05-01,AI Researcher,141
+2025-05-01,Blockchain Developer,243
+2025-05-01,IT Support Specialist,133
+2025-05-01,Game Developer,242
+2025-05-01,Embedded Systems Engineer,120
+2025-05-02,Data Scientist,219
+2025-05-02,Software Engineer,60
+2025-05-02,Product Manager,164
+2025-05-02,UX Designer,198
+2025-05-02,System Administrator,206
+2025-05-02,Machine Learning Engineer,64
+2025-05-02,DevOps Engineer,122
+2025-05-02,Frontend Developer,95
+2025-05-02,Backend Developer,67
+2025-05-02,Full Stack Developer,126
+2025-05-02,Cloud Architect,194
+2025-05-02,Database Administrator,93
+2025-05-02,Security Analyst,141
+2025-05-02,Business Analyst,56
+2025-05-02,Mobile App Developer,141
+2025-05-02,AI Researcher,208
+2025-05-02,Blockchain Developer,223
+2025-05-02,IT Support Specialist,159
+2025-05-02,Game Developer,192
+2025-05-02,Embedded Systems Engineer,167
+2025-05-03,Data Scientist,195
+2025-05-03,Software Engineer,68
+2025-05-03,Product Manager,135
+2025-05-03,UX Designer,112
+2025-05-03,System Administrator,94
+2025-05-03,Machine Learning Engineer,109
+2025-05-03,DevOps Engineer,210
+2025-05-03,Frontend Developer,112
+2025-05-03,Backend Developer,206
+2025-05-03,Full Stack Developer,221
+2025-05-03,Cloud Architect,58
+2025-05-03,Database Administrator,83
+2025-05-03,Security Analyst,243
+2025-05-03,Business Analyst,200
+2025-05-03,Mobile App Developer,157
+2025-05-03,AI Researcher,157
+2025-05-03,Blockchain Developer,245
+2025-05-03,IT Support Specialist,234
+2025-05-03,Game Developer,201
+2025-05-03,Embedded Systems Engineer,228
+2025-05-04,Data Scientist,82
+2025-05-04,Software Engineer,74
+2025-05-04,Product Manager,231
+2025-05-04,UX Designer,136
+2025-05-04,System Administrator,144
+2025-05-04,Machine Learning Engineer,151
+2025-05-04,DevOps Engineer,203
+2025-05-04,Frontend Developer,116
+2025-05-04,Backend Developer,156
+2025-05-04,Full Stack Developer,117
+2025-05-04,Cloud Architect,221
+2025-05-04,Database Administrator,234
+2025-05-04,Security Analyst,215
+2025-05-04,Business Analyst,201
+2025-05-04,Mobile App Developer,91
+2025-05-04,AI Researcher,218
+2025-05-04,Blockchain Developer,70
+2025-05-04,IT Support Specialist,244
+2025-05-04,Game Developer,178
+2025-05-04,Embedded Systems Engineer,199
+2025-05-05,Data Scientist,241
+2025-05-05,Software Engineer,214
+2025-05-05,Product Manager,83
+2025-05-05,UX Designer,161
+2025-05-05,System Administrator,122
+2025-05-05,Machine Learning Engineer,78
+2025-05-05,DevOps Engineer,124
+2025-05-05,Frontend Developer,149
+2025-05-05,Backend Developer,152
+2025-05-05,Full Stack Developer,189
+2025-05-05,Cloud Architect,231
+2025-05-05,Database Administrator,83
+2025-05-05,Security Analyst,192
+2025-05-05,Business Analyst,113
+2025-05-05,Mobile App Developer,173
+2025-05-05,AI Researcher,132
+2025-05-05,Blockchain Developer,123
+2025-05-05,IT Support Specialist,152
+2025-05-05,Game Developer,170
+2025-05-05,Embedded Systems Engineer,144
+2025-05-06,Data Scientist,145
+2025-05-06,Software Engineer,115
+2025-05-06,Product Manager,109
+2025-05-06,UX Designer,64
+2025-05-06,System Administrator,144
+2025-05-06,Machine Learning Engineer,111
+2025-05-06,DevOps Engineer,124
+2025-05-06,Frontend Developer,131
+2025-05-06,Backend Developer,250
+2025-05-06,Full Stack Developer,122
+2025-05-06,Cloud Architect,198
+2025-05-06,Database Administrator,69
+2025-05-06,Security Analyst,237
+2025-05-06,Business Analyst,196
+2025-05-06,Mobile App Developer,179
+2025-05-06,AI Researcher,245
+2025-05-06,Blockchain Developer,185
+2025-05-06,IT Support Specialist,125
+2025-05-06,Game Developer,147
+2025-05-06,Embedded Systems Engineer,101
+2025-05-07,Data Scientist,225
+2025-05-07,Software Engineer,199
+2025-05-07,Product Manager,236
+2025-05-07,UX Designer,199
+2025-05-07,System Administrator,140
+2025-05-07,Machine Learning Engineer,222
+2025-05-07,DevOps Engineer,235
+2025-05-07,Frontend Developer,185
+2025-05-07,Backend Developer,82
+2025-05-07,Full Stack Developer,88
+2025-05-07,Cloud Architect,99
+2025-05-07,Database Administrator,65
+2025-05-07,Security Analyst,181
+2025-05-07,Business Analyst,130
+2025-05-07,Mobile App Developer,76
+2025-05-07,AI Researcher,80
+2025-05-07,Blockchain Developer,217
+2025-05-07,IT Support Specialist,229
+2025-05-07,Game Developer,177
+2025-05-07,Embedded Systems Engineer,200
+2025-05-08,Data Scientist,187
+2025-05-08,Software Engineer,128
+2025-05-08,Product Manager,170
+2025-05-08,UX Designer,127
+2025-05-08,System Administrator,181
+2025-05-08,Machine Learning Engineer,88
+2025-05-08,DevOps Engineer,171
+2025-05-08,Frontend Developer,177
+2025-05-08,Backend Developer,151
+2025-05-08,Full Stack Developer,186
+2025-05-08,Cloud Architect,169
+2025-05-08,Database Administrator,190
+2025-05-08,Security Analyst,226
+2025-05-08,Business Analyst,125
+2025-05-08,Mobile App Developer,71
+2025-05-08,AI Researcher,244
+2025-05-08,Blockchain Developer,194
+2025-05-08,IT Support Specialist,190
+2025-05-08,Game Developer,182
+2025-05-08,Embedded Systems Engineer,61
+2025-05-09,Data Scientist,82
+2025-05-09,Software Engineer,64
+2025-05-09,Product Manager,177
+2025-05-09,UX Designer,145
+2025-05-09,System Administrator,225
+2025-05-09,Machine Learning Engineer,150
+2025-05-09,DevOps Engineer,106
+2025-05-09,Frontend Developer,160
+2025-05-09,Backend Developer,211
+2025-05-09,Full Stack Developer,72
+2025-05-09,Cloud Architect,184
+2025-05-09,Database Administrator,134
+2025-05-09,Security Analyst,237
+2025-05-09,Business Analyst,75
+2025-05-09,Mobile App Developer,181
+2025-05-09,AI Researcher,197
+2025-05-09,Blockchain Developer,176
+2025-05-09,IT Support Specialist,158
+2025-05-09,Game Developer,121
+2025-05-09,Embedded Systems Engineer,95
+2025-05-10,Data Scientist,117
+2025-05-10,Software Engineer,137
+2025-05-10,Product Manager,95
+2025-05-10,UX Designer,90
+2025-05-10,System Administrator,204
+2025-05-10,Machine Learning Engineer,125
+2025-05-10,DevOps Engineer,73
+2025-05-10,Frontend Developer,203
+2025-05-10,Backend Developer,137
+2025-05-10,Full Stack Developer,162
+2025-05-10,Cloud Architect,126
+2025-05-10,Database Administrator,83
+2025-05-10,Security Analyst,148
+2025-05-10,Business Analyst,200
+2025-05-10,Mobile App Developer,250
+2025-05-10,AI Researcher,190
+2025-05-10,Blockchain Developer,176
+2025-05-10,IT Support Specialist,153
+2025-05-10,Game Developer,98
+2025-05-10,Embedded Systems Engineer,192
+2025-05-11,Data Scientist,81
+2025-05-11,Software Engineer,178
+2025-05-11,Product Manager,97
+2025-05-11,UX Designer,98
+2025-05-11,System Administrator,127
+2025-05-11,Machine Learning Engineer,223
+2025-05-11,DevOps Engineer,94
+2025-05-11,Frontend Developer,219
+2025-05-11,Backend Developer,78
+2025-05-11,Full Stack Developer,147
+2025-05-11,Cloud Architect,187
+2025-05-11,Database Administrator,237
+2025-05-11,Security Analyst,166
+2025-05-11,Business Analyst,164
+2025-05-11,Mobile App Developer,183
+2025-05-11,AI Researcher,177
+2025-05-11,Blockchain Developer,65
+2025-05-11,IT Support Specialist,71
+2025-05-11,Game Developer,143
+2025-05-11,Embedded Systems Engineer,148
+2025-05-12,Data Scientist,56
+2025-05-12,Software Engineer,55
+2025-05-12,Product Manager,241
+2025-05-12,UX Designer,147
+2025-05-12,System Administrator,207
+2025-05-12,Machine Learning Engineer,190
+2025-05-12,DevOps Engineer,57
+2025-05-12,Frontend Developer,230
+2025-05-12,Backend Developer,63
+2025-05-12,Full Stack Developer,231
+2025-05-12,Cloud Architect,95
+2025-05-12,Database Administrator,52
+2025-05-12,Security Analyst,165
+2025-05-12,Business Analyst,106
+2025-05-12,Mobile App Developer,116
+2025-05-12,AI Researcher,80
+2025-05-12,Blockchain Developer,177
+2025-05-12,IT Support Specialist,174
+2025-05-12,Game Developer,196
+2025-05-12,Embedded Systems Engineer,138
+2025-05-13,Data Scientist,188
+2025-05-13,Software Engineer,186
+2025-05-13,Product Manager,243
+2025-05-13,UX Designer,247
+2025-05-13,System Administrator,131
+2025-05-13,Machine Learning Engineer,216
+2025-05-13,DevOps Engineer,200
+2025-05-13,Frontend Developer,193
+2025-05-13,Backend Developer,145
+2025-05-13,Full Stack Developer,234
+2025-05-13,Cloud Architect,238
+2025-05-13,Database Administrator,106
+2025-05-13,Security Analyst,151
+2025-05-13,Business Analyst,99
+2025-05-13,Mobile App Developer,103
+2025-05-13,AI Researcher,245
+2025-05-13,Blockchain Developer,86
+2025-05-13,IT Support Specialist,120
+2025-05-13,Game Developer,76
+2025-05-13,Embedded Systems Engineer,162
+2025-05-14,Data Scientist,194
+2025-05-14,Software Engineer,96
+2025-05-14,Product Manager,228
+2025-05-14,UX Designer,246
+2025-05-14,System Administrator,154
+2025-05-14,Machine Learning Engineer,153
+2025-05-14,DevOps Engineer,69
+2025-05-14,Frontend Developer,126
+2025-05-14,Backend Developer,56
+2025-05-14,Full Stack Developer,146
+2025-05-14,Cloud Architect,157
+2025-05-14,Database Administrator,62
+2025-05-14,Security Analyst,138
+2025-05-14,Business Analyst,175
+2025-05-14,Mobile App Developer,72
+2025-05-14,AI Researcher,63
+2025-05-14,Blockchain Developer,249
+2025-05-14,IT Support Specialist,182
+2025-05-14,Game Developer,90
+2025-05-14,Embedded Systems Engineer,176
+2025-05-15,Data Scientist,171
+2025-05-15,Software Engineer,78
+2025-05-15,Product Manager,117
+2025-05-15,UX Designer,161
+2025-05-15,System Administrator,221
+2025-05-15,Machine Learning Engineer,207
+2025-05-15,DevOps Engineer,135
+2025-05-15,Frontend Developer,202
+2025-05-15,Backend Developer,64
+2025-05-15,Full Stack Developer,86
+2025-05-15,Cloud Architect,193
+2025-05-15,Database Administrator,102
+2025-05-15,Security Analyst,225
+2025-05-15,Business Analyst,84
+2025-05-15,Mobile App Developer,79
+2025-05-15,AI Researcher,176
+2025-05-15,Blockchain Developer,220
+2025-05-15,IT Support Specialist,243
+2025-05-15,Game Developer,179
+2025-05-15,Embedded Systems Engineer,80
